@@ -1,4 +1,6 @@
 # MVP - Persegi Panjang
-*** Fintech challenge
+``` 
+Fintech 
+```
 ## Novikasari K
 ### 20.20.2832
